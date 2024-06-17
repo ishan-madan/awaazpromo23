@@ -11,7 +11,7 @@ This project was a promotional video for Awaaz at Duke University, an annual eve
   </p>
 
 
-## $\textsf{\color{lightgreen} Audio and Video Editing Software}$
+## $\textsf{\color{lightgreen} Editing Software Used}$
 - Adobe Premiere Pro
 - Adobe Illustrator
 - Adobe Photoshop
